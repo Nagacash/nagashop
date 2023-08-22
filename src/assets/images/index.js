@@ -7,7 +7,6 @@ import customer2 from './customer2.svg'
 
 import footerLogo from './footer-logo.svg'
 import headerLogo from './header-logo.svg'
-import naga1 from './naga1.svg'
 import naga3 from './naga3.svg'
 import naga4 from './naga4.svg'
 import naga5 from './naga5.svg'
@@ -43,7 +42,7 @@ export {
 
     footerLogo,
     headerLogo,
-    naga1,
+    
     naga3,
     naga4,
     naga5,
