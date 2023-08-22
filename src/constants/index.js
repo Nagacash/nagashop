@@ -1,5 +1,5 @@
 import { facebook, instagram, shieldTick, support, truckFast, twitter } from "../assets/icons";
-import { naga3, naga5, naga6, naga7, naga8, naga9, naga10, naga11, naga12, bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe4, shoe5, shoe6, shoe7, shoe8, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3, naga1, } from "../assets/images";
+import { naga3, naga5, naga6, naga7, naga8, naga9, naga10, naga11, naga12, bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe4, shoe5, shoe6, shoe7, shoe8, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3,  } from "../assets/images";
 
 export const navLinks = [
     { href: "#home", label: "Home" },
