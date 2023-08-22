@@ -67,7 +67,7 @@ export const products2 = [
     {
         imgURL: naga11,
         name: "Hustle Hard - Sweater",
-        price: "$220.20",
+        price: "€49.99",
     },
     {
         imgURL: naga10,
