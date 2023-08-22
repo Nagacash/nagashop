@@ -1,7 +1,7 @@
 import { copyrightSign } from "../assets/icons";
 import { footerLogo } from "../assets/images";
 import { footerLinks, socialMedia } from "../constants";
-import { naga1 } from '../assets/images'
+import { nagalogo } from '../assets/images'
 
 const Footer = () => {
   return (
@@ -10,7 +10,7 @@ const Footer = () => {
         <div className='flex flex-col items-start'>
           <a href='/'>
             <img
-              src={naga1}
+              src={nagalogo}
               alt='logo'
               width={150}
               height={46}

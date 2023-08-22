@@ -1,5 +1,5 @@
 
-import { naga1, nagalogo, } from '../assets/images'
+import {  nagalogo, } from '../assets/images'
 
 import { hamburger } from "../assets/icons";
 import { headerLogo } from "../assets/images";
