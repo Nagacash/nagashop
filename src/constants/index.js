@@ -1,5 +1,5 @@
 import { facebook, instagram, shieldTick, support, truckFast, twitter } from "../assets/icons";
-import { naga3, naga5, naga6, naga7, naga8, naga9, naga10, naga11, naga12, bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe4, shoe5, shoe6, shoe7, shoe8, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3,  } from "../assets/images";
+import { naga3, naga5, naga6, naga7, naga8, naga9, naga10, naga11, naga12, bigShoe1, bigShoe2, bigShoe3, customer1, customer2, customer3, customer4, shoe4, shoe5, shoe6, shoe7, shoe8, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3,  } from "../assets/images";
 
 export const navLinks = [
     { href: "#home", label: "Home" },
@@ -99,14 +99,14 @@ export const services = [
 
 export const reviews = [
     {
-        imgURL: customer1,
-        customerName: 'Morich Brown',
+        imgURL: customer3,
+        customerName: 'Marvin Geller',
         rating: 4.5,
-        feedback: "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!"
+        feedback: "Not only did the product meet my expectations, but it also exceeded them. I'm certainly coming back as a loyal customer!"
     },
     {
-        imgURL: customer2,
-        customerName: 'Lota Mongeskar',
+        imgURL: customer4,
+        customerName: 'Lora Kubasta',
         rating: 4.5,
         feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
     }

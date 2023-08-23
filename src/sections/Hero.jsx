@@ -26,8 +26,7 @@ const Hero = () => {
           <span className='text-purple-950-red inline-block mt-3'>Best</span> Prices
         </h1>
         <p className='font-montserrat text-slate-gray text-lg leading-8 mt-6 mb-14 sm:max-w-sm'>
-          Discover stylish Nike arrivals, quality comfort, and innovation for
-          your active life.
+        Explore our latest Naga arrivals, where style meets comfort and innovation to enhance your active lifestyle.
         </p>
 
         <Button label='Sweaters + T-shirts' iconURL={arrowRight} />

@@ -16,9 +16,9 @@ const SuperQuality = () => {
           <span className='text-fuchsia-900'>Quality </span> Gear
         </h2>
         <p className='mt-4 lg:max-w-lg info-text'>
-          Ensuring premium comfort and style, our meticulously crafted footwear
-          is designed to elevate your experience, providing you with unmatched
-          quality, innovation, and a touch of elegance.
+        Elevate your experience with our meticulously crafted urban wear, where premium comfort and style converge. We're committed to delivering unmatched quality, innovation, and a touch of elegance in every step you take.
+
+Our unwavering dedication to detail and excellence guarantees your absolute satisfaction.
         </p>
         <p className='mt-6 lg:max-w-lg info-text'>
           Our dedication to detail and excellence ensures your satisfaction
