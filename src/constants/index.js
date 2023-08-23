@@ -148,6 +148,6 @@ export const footerLinks = [
 
 export const socialMedia = [
     { src: facebook, link: "https://www.facebook.com/nagaclothing/", alt: "facebook logo" },
-    { src: twitter, alt: "twitter logo" },
+   
     { src: instagram, alt: "instagram logo" },
 ];
