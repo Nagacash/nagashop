@@ -30,7 +30,7 @@ const SpecialOffer = () => {
           nothing short of exceptional.
         </p>
         <div className='mt-11 flex flex-wrap gap-4'>
-          <Button label='Naga Apparel' iconURL={arrowRight} />
+          <Button label='Naga Apparel' iconURL={arrowRight} className="sm:mt-6 md:mt-4" />
           
 
           
@@ -40,6 +40,7 @@ const SpecialOffer = () => {
             backgroundColor='bg-white'
             borderColor='border-slate-gray'
             textColor='text-slate-gray'
+            className="sm:mb-6 md:mb-6  "
           />
         </div>
       </div>
