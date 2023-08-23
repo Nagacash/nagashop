@@ -119,7 +119,7 @@ export const footerLinks = [
         links: [
             { name: "Naga - T-shirt", link: "https://www.redbubble.com/i/t-shirt/Naga-Apparel-by-Naga-Apparel/138746578.IJ6L0" },
             { name: "Naga - Hoddies", link: "https://www.redbubble.com/i/hoodie/Naga-Apparel-by-Naga-Apparel/138827059.Z4UL5.XYZ" },
-            { name: "Naga - Sweater", link: "https://www.redbubble.com/i/sweatshirt/Naga-Apparel-by-Naga-Apparel/138746578.LEP2X" },
+            { name: "Naga - Sweater", link: "https://www.amazon.de/Naga-Apparel-Outta-Hamburg-Sweatshirt/dp/B0BTDB726Q/ref=sr_1_1?psc=1&qid=1692745800&refinements=p_4%3ANaga+Apparel&s=apparel&sr=1-1&th=1" },
             { name: "Naga - Golden Cobra Lightweight", link: "https://www.redbubble.com/i/hoodie/Naga-Golden-Cobra-by-Naga-Apparel/138747739.O6XP1" },
             { name: "Naga - Golden Cobra Duffle Bag", link: "https://www.redbubble.com/i/duffle-bag/Naga-Golden-Cobra-by-Naga-Apparel/138747739.TZ9LO" },
             { name: "Naga - Golden Cobra Bucket Hat", link: "https://www.redbubble.com/i/bucket-hat/Naga-Golden-Cobra-by-Naga-Apparel/138747739.S29A5" },
@@ -138,6 +138,8 @@ export const footerLinks = [
     {
         title: "Get in touch",
         links: [
+            { name: "Naga Apparel" },
+            { name: "Steintorwall 4 - 20095 Hamburg" },
             { name: "chosenfewrecords@@hotmail.de", link: "mailto:chosenfewrecords@@hotmail.de" },
             { name: "+4917629255188", link: "tel:+4917629255188" },
         ],

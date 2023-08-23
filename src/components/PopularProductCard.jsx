@@ -4,7 +4,7 @@ import { star } from '../assets/icons/'
 const PopularProductCard = ({ imgURL, name, price }) => {
   return (
     <div className="text-black">
-        <a href="https://www.redbubble.com/i/t-shirt/Naga-Apparel-by-Naga-Apparel/138746578.IJ6L0"
+        <a href="https://www.amazon.de/s?rh=n%3A77028031%2Cp_4%3ANaga+Apparel&ref=bl_sl_s_ap_web_77028031"
              class="link-with-preview">
         
        
