@@ -129,8 +129,8 @@ export const footerLinks = [
         title: "Help",
         links: [
             { name: "About us", link: "https://nagaclub-hh.vercel.app/" },
-            { name: "FAQs", link: "/" },
-            { name: "How it works", link: "/" },
+           
+            { name: "Naga Club", link: "https://naga-tree.vercel.app/" },
             { name: "Privacy policy", link: "/" },
             { name: "Payment policy", link: "/" },
         ],
