@@ -83,12 +83,12 @@ export const services = [
     {
         imgURL: truckFast,
         label: "Free shipping",
-        subtext: "Enjoy seamless shopping with our complimentary shipping service."
+        subtext: "Enjoy our seamless shopping with our complimentary shipping service."
     },
     {
         imgURL: shieldTick,
-        label: "Secure Payment",
-        subtext: "Experience worry-free transactions with our secure payment options."
+        label: "Naga Club",
+        subtext: "Our BRAND NEW Club offers live events, night club events, and social gatherings like birthday parties."
     },
     {
         imgURL: support,
@@ -128,9 +128,9 @@ export const footerLinks = [
     {
         title: "Help",
         links: [
-            { name: "About us", link: "https://nagaclub-hh.vercel.app/" },
+            { name: "About us", link: "https://naga-tree.vercel.app/" },
            
-            { name: "Naga Club", link: "https://naga-tree.vercel.app/" },
+            { name: "Naga Club", link: "https://nagaclub-hh.vercel.app/" },
             { name: "Privacy policy", link: "/" },
             { name: "Payment policy", link: "/" },
         ],
